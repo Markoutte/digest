@@ -6,6 +6,10 @@
 ### Программирование
 ---
 
+* [Ликбез по типизации в языках программирования](http://habrahabr.ru/post/161205/)
+* [Что нужно знать каждому разработчику о кодировках и наборах символов для работы с текстом](http://habrahabr.ru/post/158639/) [![eng]](http://kunststube.net/encoding/)![rus] 
+* [Что нужно знать каждому разработчику о кодировках и наборах символов для работы с текстом, часть 2](http://habrahabr.ru/post/158895/) [![eng]](http://kunststube.net/encoding/)![rus]
+
 CoffeeScript
 
 * [The Little Book on CoffeeScript](http://arcturo.github.com/library/coffeescript/) ![us]
@@ -17,15 +21,20 @@ Java
 JavaScript
 
 * [Альтернативы для JavaScript](http://habrahabr.ru/post/163033/)
+* [Подводные камни JavaScript](http://habrahabr.ru/post/159313/)
+* [jQuery для начинающих. Часть 4. Селекторы](http://habrahabr.ru/post/51717/)
 
 PHP
 
 * [Ошибки PHP: классификация, примеры, обработка](http://habrahabr.ru/post/161483/)
+* [Применение замыканий в PHP](http://habrahabr.ru/post/147620/)
+* [Преобразование объекта в массив с помощью PHP](http://www.superpupersite.com/php/preobrazovanie-obekta-v-massiv-s-pomoshyu-php/)
 
 Тестирование
 
 * [Девять кругов автоматизированного тестирования](http://habrahabr.ru/post/168451/)
 * [Простое написание тестов — это не TDD!](http://habrahabr.ru/post/162417/)
+* [Делаем TDD привычкой: проблемы и внедрение](http://habrahabr.ru/company/scrumtrek/blog/157729/) [![eng]](http://www.infoq.com/articles/levison-TDD-adoption-strategy)![rus]
 
 Теория
 
@@ -34,22 +43,69 @@ PHP
 
 ### Разработка
 ---
+
+* [Десять правил спокойной разработки](http://habrahabr.ru/post/158095/)
+* [Sublime Text 2 Tips and Tricks (Updated)](http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/)
+
 Проектирование
 
 * [Использование нотации eEPC для графического описания бизнес-процессов](http://habrahabr.ru/post/143273/)
 * [Как моделировать бизнес-процессы в нотации eEPC?](http://habrahabr.ru/post/137086/)
+* [How to Design a REST API and Why You Should](http://www.websanova.com/tutorials/web-services/how-to-design-a-rest-api-and-why-you-should#.UScL3olI-FZ) ![us]
+
+Документация
+
+* [REST API documentation](http://apiary.io/) ![us]
 
 Фронтенд
 
 * [Используем console на полную](http://habrahabr.ru/post/114483/)
 
+Бэкенд
+
+* [Реализация REST API на Symfony2: правильный путь](http://habrahabr.ru/post/148951/) [![eng]](http://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/)![rus]
+* [Рекурсивные (Иерархические) запросы в PostgreSQL](http://habrahabr.ru/post/73700/)
+* [Почему стоит пользоваться PDO для работы с базой данных](http://habrahabr.ru/post/137664/) [![eng]](http://net.tutsplus.com/tutorials/php/why-you-should-be-using-phps-pdo-for-database-access/)![rus]
+
 Сервер
 
 * [Полезные хаки и сниппеты для .htaccess](http://habrahabr.ru/post/165701/)
+* [HTTP Status Codes for Beginners](http://www.addedbytes.com/articles/for-beginners/http-status-codes/) ![us]
+
+
+### Вёрстка
+---
+
+* [То, что вам никто не говорил о z-index](http://habrahabr.ru/post/166435/)
+* [В поисках идеального css-фреймворка. Требования, реализация, maxmertkit](http://habrahabr.ru/post/165373/)
+* [Кроссбраузерная кастомизация системного скроллбара](http://habrahabr.ru/company/2gis/blog/169359/)
+* [Avoid the Pains of Pagination](http://uxmovement.com/navigation/avoid-the-pains-of-pagination/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+uxmovement+%28UX+Movement%29) ![us]
+
+Адаптивный дизайн
+
+* [Типы адаптивных макетов](http://koulikov.com/2012/11/responsive-layouts/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+koulikov+(koulikov.com))
+
+
+CSS
+
+* [Код CSS «с душком»](http://habrahabr.ru/post/160177/) [![eng]](http://csswizardry.com/2012/11/code-smells-in-css/)![rus]
+
+Инструменты
+
+* [Fantastic WYSIWYG editor on jQuery](http://imperavi.com/redactor/) ![us]
+
+Геймдев
+
+* [Все самое главное для очередного «убийцы Angry Birds»](http://habrahabr.ru/post/165347/)
 
 
 ### Дизайн
 ---
+
+* [Проектирование приложений: как стать ближе к пользователю?](http://habrahabr.ru/company/microsoft/blog/164233/)
+* [How To Design Pixel Perfect Assets](http://blog.mengto.com/how-to-design-pixel-perfect-assets/) ![us]
+* [Константин Константинопольский](http://tema.livejournal.com/1322108.html)
+* [Построение приложений командной строки (CLI)](http://habrahabr.ru/post/150950/)
 
 Юзабилити
 
@@ -57,37 +113,21 @@ PHP
 * [Хватит неправильно использовать выпадающие списки перевод](http://habrahabr.ru/post/167219/)
 * [The 4 H’s of Writing Error Messages](http://uxmas.com/2012/the-4-hs-of-writing-error-messages) ![us]
 
-Вёрстка
 
-* [То, что вам никто не говорил о z-index](http://habrahabr.ru/post/166435/)
-* [В поисках идеального css-фреймворка. Требования, реализация, maxmertkit](http://habrahabr.ru/post/165373/)
-* [Кроссбраузерная кастомизация системного скроллбара](http://habrahabr.ru/company/2gis/blog/169359/)
+Иконки
 
-Инструменты
+* [2500 Flag Icon Set](https://www.gosquared.com/resources/flag-icons) ![us]
+* [Font Awesome](http://fortawesome.github.com/Font-Awesome/) ![us]
 
-* [Fantastic WYSIWYG editor on jQuery](http://imperavi.com/redactor/) ![us]
 
-Дизайн
+### Обработка изображений
+---
 
-* [Проектирование приложений: как стать ближе к пользователю?](http://habrahabr.ru/company/microsoft/blog/164233/)
-* [How To Design Pixel Perfect Assets](http://blog.mengto.com/how-to-design-pixel-perfect-assets/) ![us]
-* [Константин Константинопольский](http://tema.livejournal.com/1322108.html)
+* [Вычисление оптического потока методом Лукаса-Канаде. Теория](http://habrahabr.ru/post/169055/)
+* [Детектирование ладоней и пальцев на изображении](http://habrahabr.ru/post/169709/)
 
-Геймдев
-
-* [Все самое главное для очередного «убийцы Angry Birds»](http://habrahabr.ru/post/165347/)
-
-Документация
-
-* [REST API documentation](http://apiary.io/) ![us]
-
-Работа
-
-* [Как улучшить резюме, чтобы вас чаще приглашали на собеседования](http://lifehacker.ru/2012/12/13/best-cv/)
-
-Продуктивность
-
-* [Scription Chronodex - уникальный ежедневник в стиле Mind map](http://betteri.ru/post/scription-chronodex-unikalnyy-ezhednevnik-v-stile-mind-map.html)
+### Наука
+---
 
 Логика
 
@@ -102,25 +142,51 @@ PHP
 
 * [Машинное обучение. Часть 2](http://habrahabr.ru/post/164211/)
 
+
+### Прочее
+---
+
+* [Не бойтесь писать и говорить по-русски (пятиминутка ненависти)](http://maximilyahov.ru/blog/?go=2012/12/11/1/)
+* [IEC60027-2: Давайте использовать стандарты, или 1024 B == 1 KiB && 1024 B != 1 KB && 1000 B == 1 kB](http://habrahabr.ru/post/157763/)
+
+
+Сон
+
+* [Так для чего нужен сон?](http://upliftme.ru/articles/tak-dlya-chego-nuzhen-son-2153/)
+
+
+Работа
+
+* [Как улучшить резюме, чтобы вас чаще приглашали на собеседования](http://lifehacker.ru/2012/12/13/best-cv/)
+
+Продуктивность
+
+* [Scription Chronodex - уникальный ежедневник в стиле Mind map](http://betteri.ru/post/scription-chronodex-unikalnyy-ezhednevnik-v-stile-mind-map.html)
+* [3 GRAPHIC DESIGN EXERCISES TO IMPROVE YOUR SKILLS](http://patrickmann.com/2012/02/3-exercises-to-improve-your-graphic-design-skills/) ![us]
+
 Прокрастинация
 
 * [Прокрастинация. Символическая система вознаграждения. Часть 1](http://habrahabr.ru/post/164623/)
 * [Прокрастинация. Новые задачи. Часть 2](http://habrahabr.ru/post/165659/)
-
-
-Прочее
-
-* [Дайджест интересных новостей и материалов из мира айти за последнюю неделю](http://habrahabr.ru/company/zfort/)
-
-Иконки
-
-* [2500 Flag Icon Set](https://www.gosquared.com/resources/flag-icons) ![us]
-* [Font Awesome](http://fortawesome.github.com/Font-Awesome/) ![us]
+* [Десять уроков Будды, которые должен прочесть каждый](http://bigideas.ru/posts/1/213)
 
 Коммуникабельность:
 
 * [Как улучшить свои навыки общения](http://lifehacker.ru/2013/01/17/kak-uluchshit-svoi-navyki-obshheniya/)
 
+### Дайджесты
+---
+
+* [Дайджест интересных новостей и материалов из мира айти за последнюю неделю](http://habrahabr.ru/company/zfort/)
+
+### Отдельные блоги
+---
+
+* [Kunststube](http://kunststube.net/)
+
+
+
 
 [eng]: img/eng.png
 [us]: img/us.png
+[rus]: img/rus.png
