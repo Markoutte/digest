@@ -17,6 +17,8 @@ CoffeeScript
 Java
 
 * [Java собеседование. Коллекции vs null](http://habrahabr.ru/post/164027/)
+* [Java на каждый день и не только. Рекомендации по использованию перевод](http://habrahabr.ru/post/167291/) [![eng]](http://nurkiewicz.blogspot.ru/2012/10/java-features-applicability.html)![rus]
+* [Разбираемся с hashCode() и equals()](http://habrahabr.ru/post/168195/)
 
 JavaScript
 
@@ -40,18 +42,25 @@ PHP
 
 * [Ликбез по типизации в языках программирования](http://habrahabr.ru/post/161205/)
 
+### Базы данных
+
+PostgreSQL
+
+* [Table bloat? Не, не слышал…](http://habrahabr.ru/post/169939/)
 
 ### Разработка
 ---
 
 * [Десять правил спокойной разработки](http://habrahabr.ru/post/158095/)
 * [Sublime Text 2 Tips and Tricks (Updated)](http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/)
+* [The Only Correct Indent Style](http://www.terminally-incoherent.com/blog/2009/04/10/the-only-correct-indent-style/) ![us]
 
 Проектирование
 
 * [Использование нотации eEPC для графического описания бизнес-процессов](http://habrahabr.ru/post/143273/)
 * [Как моделировать бизнес-процессы в нотации eEPC?](http://habrahabr.ru/post/137086/)
 * [How to Design a REST API and Why You Should](http://www.websanova.com/tutorials/web-services/how-to-design-a-rest-api-and-why-you-should#.UScL3olI-FZ) ![us]
+* [Удачная модель ветвления для Git](http://habrahabr.ru/post/106912/)
 
 Документация
 
@@ -72,6 +81,11 @@ PHP
 * [Полезные хаки и сниппеты для .htaccess](http://habrahabr.ru/post/165701/)
 * [HTTP Status Codes for Beginners](http://www.addedbytes.com/articles/for-beginners/http-status-codes/) ![us]
 
+Кодинг
+
+* [Стивен Кинг «Как писать программный код»](http://habrahabr.ru/company/infopulse/blog/173017/)
+
+
 
 ### Вёрстка
 ---
@@ -89,6 +103,7 @@ PHP
 CSS
 
 * [Код CSS «с душком»](http://habrahabr.ru/post/160177/) [![eng]](http://csswizardry.com/2012/11/code-smells-in-css/)![rus]
+* [HORIZONTAL DROP-DOWN MENU](http://tympanus.net/codrops/2013/03/05/horizontal-drop-down-menu/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+tympanus+%28Codrops%29) ![us]
 
 Инструменты
 
@@ -105,19 +120,30 @@ CSS
 * [Проектирование приложений: как стать ближе к пользователю?](http://habrahabr.ru/company/microsoft/blog/164233/)
 * [How To Design Pixel Perfect Assets](http://blog.mengto.com/how-to-design-pixel-perfect-assets/) ![us]
 * [Константин Константинопольский](http://tema.livejournal.com/1322108.html)
-* [Построение приложений командной строки (CLI)](http://habrahabr.ru/post/150950/)
+* [Построение приложений командной строки (CLI)](http://habrahabr.ru/post/150950/)* ]
 
 Юзабилити
 
 * [Stop Misusing Select Menus](http://uxmovement.com/forms/stop-misusing-select-menus/) ![us]
 * [Хватит неправильно использовать выпадающие списки перевод](http://habrahabr.ru/post/167219/)
 * [The 4 H’s of Writing Error Messages](http://uxmas.com/2012/the-4-hs-of-writing-error-messages) ![us]
+* [Поле с паролем](http://habrahabr.ru/post/171383/)
+* [Почему современные интерфейсы плохие](http://habrahabr.ru/post/172641/)
+* [Загадка выпадающего списка «Амазона»](http://habrahabr.ru/post/171905/)
+* [7 советов, как улучшить интерфейс вашего приложения](http://habrahabr.ru/post/170701/)
 
 
 Иконки
 
 * [2500 Flag Icon Set](https://www.gosquared.com/resources/flag-icons) ![us]
 * [Font Awesome](http://fortawesome.github.com/Font-Awesome/) ![us]
+* [Gemicon - Handcrafted icon by Turqois](http://gemicon.net/) ![us]
+
+Типографика
+
+* [Interactive Guide to Blog Typography](http://www.kaikkonendesign.fi/typography/section/1) ![us]
+* [Общедоступные шрифты с поддержкой национальных алфавитов России](http://www.paratype.ru/public/)
+
 
 
 ### Обработка изображений
@@ -148,6 +174,7 @@ CSS
 
 * [Не бойтесь писать и говорить по-русски (пятиминутка ненависти)](http://maximilyahov.ru/blog/?go=2012/12/11/1/)
 * [IEC60027-2: Давайте использовать стандарты, или 1024 B == 1 KiB && 1024 B != 1 KB && 1000 B == 1 kB](http://habrahabr.ru/post/157763/)
+* [Как научиться писать книги](http://habrahabr.ru/post/168153/)
 
 
 Сон
@@ -163,6 +190,7 @@ CSS
 
 * [Scription Chronodex - уникальный ежедневник в стиле Mind map](http://betteri.ru/post/scription-chronodex-unikalnyy-ezhednevnik-v-stile-mind-map.html)
 * [3 GRAPHIC DESIGN EXERCISES TO IMPROVE YOUR SKILLS](http://patrickmann.com/2012/02/3-exercises-to-improve-your-graphic-design-skills/) ![us]
+* [Как стать хозяином своего времени: приемы джедая](http://habrahabr.ru/post/172617/)
 
 Прокрастинация
 
@@ -178,6 +206,7 @@ CSS
 ---
 
 * [Дайджест интересных новостей и материалов из мира айти за последнюю неделю](http://habrahabr.ru/company/zfort/)
+* [Что почитать? Предложения по изданию компьютерных книг](http://habrahabr.ru/company/piter/blog/171047/)
 
 ### Отдельные блоги
 ---
