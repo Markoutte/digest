@@ -37,6 +37,7 @@ PHP
 * [Девять кругов автоматизированного тестирования](http://habrahabr.ru/post/168451/)
 * [Простое написание тестов — это не TDD!](http://habrahabr.ru/post/162417/)
 * [Делаем TDD привычкой: проблемы и внедрение](http://habrahabr.ru/company/scrumtrek/blog/157729/) [![eng]](http://www.infoq.com/articles/levison-TDD-adoption-strategy)![rus]
+* [Юнит-тестирование для чайников](http://habrahabr.ru/company/etnasoft/blog/169381/)
 
 Теория
 
@@ -69,6 +70,7 @@ PostgreSQL
 Фронтенд
 
 * [Используем console на полную](http://habrahabr.ru/post/114483/)
+* [Hacking the <a> tag in 100 characters](http://bilaw.al/2013/03/17/hacking-the-a-tag-in-100-characters.html) ![us]
 
 Бэкенд
 
@@ -85,7 +87,9 @@ PostgreSQL
 
 * [Стивен Кинг «Как писать программный код»](http://habrahabr.ru/company/infopulse/blog/173017/)
 
+Хостинг
 
+* [Flops: облачный хостинг каким он должен быть](https://flops.ru/)
 
 ### Вёрстка
 ---
@@ -94,10 +98,14 @@ PostgreSQL
 * [В поисках идеального css-фреймворка. Требования, реализация, maxmertkit](http://habrahabr.ru/post/165373/)
 * [Кроссбраузерная кастомизация системного скроллбара](http://habrahabr.ru/company/2gis/blog/169359/)
 * [Avoid the Pains of Pagination](http://uxmovement.com/navigation/avoid-the-pains-of-pagination/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+uxmovement+%28UX+Movement%29) ![us]
+* [How to lose weight (in the browser)](https://github.com/zenorocha/browser-diet) ![us]
 
 Адаптивный дизайн
 
 * [Типы адаптивных макетов](http://koulikov.com/2012/11/responsive-layouts/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+koulikov+(koulikov.com))
+* [Foundation: The most advanced responsive front-end framework in the world.](http://foundation.zurb.com/) ![us]
+* [Bootstrap: Sleek, intuitive, and powerful front-end framework for faster and easier web development.](http://twitter.github.com/bootstrap/) ![us]
+* [Kube: Professional CSS-framework](http://imperavi.com/kube/) ![us]
 
 
 CSS
@@ -138,13 +146,17 @@ CSS
 * [2500 Flag Icon Set](https://www.gosquared.com/resources/flag-icons) ![us]
 * [Font Awesome](http://fortawesome.github.com/Font-Awesome/) ![us]
 * [Gemicon - Handcrafted icon by Turqois](http://gemicon.net/) ![us]
+* [We love icons](http://weloveicons.com/) ![us]
 
 Типографика
 
 * [Interactive Guide to Blog Typography](http://www.kaikkonendesign.fi/typography/section/1) ![us]
 * [Общедоступные шрифты с поддержкой национальных алфавитов России](http://www.paratype.ru/public/)
+* [Style Manual: A reference document by Andry Taylor](http://stylemanual.org/) ![us]
 
+### Презентация и доклады
 
+* [Infogram: Create interactive infographics](http://infogr.am/) ![us]
 
 ### Обработка изображений
 ---
