@@ -228,6 +228,6 @@ CSS
 
 
 
-[eng]: img/eng.png
-[us]: img/us.png
-[rus]: img/rus.png
+[eng]: https://raw.github.com/Markoutte/digest/master/img/eng.png
+[us]:  https://raw.github.com/Markoutte/digest/master/img/us.png
+[rus]: https://raw.github.com/Markoutte/digest/master/img/rus.png
