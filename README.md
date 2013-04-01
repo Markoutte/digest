@@ -1,7 +1,6 @@
-Поддержка веб-проектов
+# Дайджест
 
-* [Корректный переход со старого домена на новый](http://habrahabr.ru/post/168471/)
-* [Кнопки социальных сетей, HTML 5, атрибут data и асинхронная загрузка javascript](http://habrahabr.ru/post/166831/)
+> Индекс статей, ссылки на которые я хотел бы держать неподалёку, чтобы время от времени иметь возможность перечитывать их или быстро находить интересную мне публикацию.
 
 ### Программирование
 ---
@@ -31,6 +30,7 @@ PHP
 * [Ошибки PHP: классификация, примеры, обработка](http://habrahabr.ru/post/161483/)
 * [Применение замыканий в PHP](http://habrahabr.ru/post/147620/)
 * [Преобразование объекта в массив с помощью PHP](http://www.superpupersite.com/php/preobrazovanie-obekta-v-massiv-s-pomoshyu-php/)
+* [Шаблон программирования «Текучий интерфейс» в PHP. Свежий взгляд](http://habrahabr.ru/post/170019/) `#aop`
 
 Тестирование
 
@@ -62,6 +62,7 @@ PostgreSQL
 * [Как моделировать бизнес-процессы в нотации eEPC?](http://habrahabr.ru/post/137086/)
 * [How to Design a REST API and Why You Should](http://www.websanova.com/tutorials/web-services/how-to-design-a-rest-api-and-why-you-should#.UScL3olI-FZ) ![us]
 * [Удачная модель ветвления для Git](http://habrahabr.ru/post/106912/)
+* [GitLab](http://blog.gitlab.org/) ![us]
 
 Документация
 
@@ -71,6 +72,7 @@ PostgreSQL
 
 * [Используем console на полную](http://habrahabr.ru/post/114483/)
 * [Hacking the <a> tag in 100 characters](http://bilaw.al/2013/03/17/hacking-the-a-tag-in-100-characters.html) ![us]
+* [Кнопки социальных сетей, HTML 5, атрибут data и асинхронная загрузка javascript](http://habrahabr.ru/post/166831/)
 
 Бэкенд
 
@@ -82,6 +84,7 @@ PostgreSQL
 
 * [Полезные хаки и сниппеты для .htaccess](http://habrahabr.ru/post/165701/)
 * [HTTP Status Codes for Beginners](http://www.addedbytes.com/articles/for-beginners/http-status-codes/) ![us]
+* [Корректный переход со старого домена на новый](http://habrahabr.ru/post/168471/)
 
 Кодинг
 
@@ -90,6 +93,7 @@ PostgreSQL
 Хостинг
 
 * [Flops: облачный хостинг каким он должен быть](https://flops.ru/)
+* [Geekstorage: Virtual Private Servers](http://www.geekstorage.com/) ![us]
 
 ### Вёрстка
 ---
@@ -105,7 +109,9 @@ PostgreSQL
 * [Типы адаптивных макетов](http://koulikov.com/2012/11/responsive-layouts/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+koulikov+(koulikov.com))
 * [Foundation: The most advanced responsive front-end framework in the world.](http://foundation.zurb.com/) ![us]
 * [Bootstrap: Sleek, intuitive, and powerful front-end framework for faster and easier web development.](http://twitter.github.com/bootstrap/) ![us]
+* [Flatstrap: Sometimes a new project doesn't need rounded corners or gradients. So we decided to get rid of them](http://littlesparkvt.com/flatstrap/index.html) ![us]
 * [Kube: Professional CSS-framework](http://imperavi.com/kube/) ![us]
+* [30 CSS-фреймворков для адаптивного веб-дизайна](http://habrahabr.ru/post/156747/)
 
 
 CSS
@@ -128,7 +134,12 @@ CSS
 * [Проектирование приложений: как стать ближе к пользователю?](http://habrahabr.ru/company/microsoft/blog/164233/)
 * [How To Design Pixel Perfect Assets](http://blog.mengto.com/how-to-design-pixel-perfect-assets/) ![us]
 * [Константин Константинопольский](http://tema.livejournal.com/1322108.html)
-* [Построение приложений командной строки (CLI)](http://habrahabr.ru/post/150950/)* ]
+* [Построение приложений командной строки (CLI)](http://habrahabr.ru/post/150950/)
+* [White Space](http://oykun.com/journal/white-space/) ![us]
+
+Примеры отличных дизайнерских решений
+
+* [Andrew McCarthy](http://www.andrevv.com/)
 
 Юзабилити
 
@@ -192,6 +203,7 @@ CSS
 Сон
 
 * [Так для чего нужен сон?](http://upliftme.ru/articles/tak-dlya-chego-nuzhen-son-2153/)
+* [http://lifehacker.ru/2013/03/22/skolko-nuzhno-spat-chtoby-byt-produktivnym/](http://lifehacker.ru/2013/03/22/skolko-nuzhno-spat-chtoby-byt-produktivnym/)
 
 
 Работа
