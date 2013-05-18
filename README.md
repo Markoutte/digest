@@ -2,12 +2,14 @@
 
 > Индекс статей, ссылки на которые я хотел бы держать неподалёку, чтобы время от времени иметь возможность перечитывать их или быстро находить интересную мне публикацию.
 
+
 ### Программирование
 ---
 
 * [Ликбез по типизации в языках программирования](http://habrahabr.ru/post/161205/)
 * [Что нужно знать каждому разработчику о кодировках и наборах символов для работы с текстом](http://habrahabr.ru/post/158639/) [![eng]](http://kunststube.net/encoding/)![rus] 
 * [Что нужно знать каждому разработчику о кодировках и наборах символов для работы с текстом, часть 2](http://habrahabr.ru/post/158895/) [![eng]](http://kunststube.net/encoding/)![rus]
+* [Правильно освобождаем ресурсы в Java](http://habrahabr.ru/post/178405/)
 
 CoffeeScript
 
@@ -18,12 +20,17 @@ Java
 * [Java собеседование. Коллекции vs null](http://habrahabr.ru/post/164027/)
 * [Java на каждый день и не только. Рекомендации по использованию перевод](http://habrahabr.ru/post/167291/) [![eng]](http://nurkiewicz.blogspot.ru/2012/10/java-features-applicability.html)![rus]
 * [Разбираемся с hashCode() и equals()](http://habrahabr.ru/post/168195/)
+* [Мягкие ссылки на страже доступной памяти или как экономить память правильно](http://habrahabr.ru/post/169883/)
+* [Java: executor с уплотнением по ключам](http://habrahabr.ru/post/172209/)
 
 JavaScript
 
 * [Альтернативы для JavaScript](http://habrahabr.ru/post/163033/)
 * [Подводные камни JavaScript](http://habrahabr.ru/post/159313/)
 * [jQuery для начинающих. Часть 4. Селекторы](http://habrahabr.ru/post/51717/)
+* [jQuery Trickshots](http://tutorialzine.com/books/jquery-trickshots/)![us]
+* [50 Amazing jQuery Plugins That You Should Start Using Right Now](http://tutorialzine.com/2013/04/50-amazing-jquery-plugins/)![us]
+* [10 странностей и секретов JavaScript](http://habrahabr.ru/post/171359/) [![eng]](http://habrahabr.ru/users/paththeir/)![rus]
 
 PHP
 
@@ -48,13 +55,16 @@ PHP
 PostgreSQL
 
 * [Table bloat? Не, не слышал…](http://habrahabr.ru/post/169939/)
+* [Управление растущими нагрузками в Postgres: 5 советов от Instagram](http://habrahabr.ru/company/mbt/blog/171217/) [![eng]](http://instagram-engineering.tumblr.com/post/40781627982/handling-growth-with-postgres-5-tips-from-instagram)![rus]
 
 ### Разработка
 ---
 
+* [Минифест (манифест разработчиков-минималистов)](http://habrahabr.ru/post/176813/)[![eng]](http://minifesto.org/)![rus]
 * [Десять правил спокойной разработки](http://habrahabr.ru/post/158095/)
 * [Sublime Text 2 Tips and Tricks (Updated)](http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/)
 * [The Only Correct Indent Style](http://www.terminally-incoherent.com/blog/2009/04/10/the-only-correct-indent-style/) ![us]
+* [A Short Guide To Open-Source And Similar Licenses](http://www.smashingmagazine.com/2010/03/24/a-short-guide-to-open-source-and-similar-licenses/) ![us]
 
 Проектирование
 
@@ -63,6 +73,7 @@ PostgreSQL
 * [How to Design a REST API and Why You Should](http://www.websanova.com/tutorials/web-services/how-to-design-a-rest-api-and-why-you-should#.UScL3olI-FZ) ![us]
 * [Удачная модель ветвления для Git](http://habrahabr.ru/post/106912/)
 * [GitLab](http://blog.gitlab.org/) ![us]
+* [Learn Git Branching](http://pcottle.github.io/learnGitBranching/) ![us]
 
 Документация
 
@@ -73,6 +84,8 @@ PostgreSQL
 * [Используем console на полную](http://habrahabr.ru/post/114483/)
 * [Hacking the <a> tag in 100 characters](http://bilaw.al/2013/03/17/hacking-the-a-tag-in-100-characters.html) ![us]
 * [Кнопки социальных сетей, HTML 5, атрибут data и асинхронная загрузка javascript](http://habrahabr.ru/post/166831/)
+* [“Right click and save as” needs to go away](http://svarden.se/blog/2013-04-22-right-click-and-save-as/) ![us]
+* [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/) ![us]
 
 Бэкенд
 
@@ -94,6 +107,7 @@ PostgreSQL
 
 * [Flops: облачный хостинг каким он должен быть](https://flops.ru/)
 * [Geekstorage: Virtual Private Servers](http://www.geekstorage.com/) ![us]
+* [DigitalOcean — Simple Cloud Hosting](https://www.digitalocean.com/) ![us]
 
 ### Вёрстка
 ---
@@ -102,7 +116,7 @@ PostgreSQL
 * [В поисках идеального css-фреймворка. Требования, реализация, maxmertkit](http://habrahabr.ru/post/165373/)
 * [Кроссбраузерная кастомизация системного скроллбара](http://habrahabr.ru/company/2gis/blog/169359/)
 * [Avoid the Pains of Pagination](http://uxmovement.com/navigation/avoid-the-pains-of-pagination/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+uxmovement+%28UX+Movement%29) ![us]
-* [How to lose weight (in the browser)](https://github.com/zenorocha/browser-diet) ![us]
+* [Лёгкий сайт или как посадить браузер на диету](http://habrahabr.ru/post/178561/)[![eng]](https://github.com/zenorocha/browser-diet)![rus]
 
 Адаптивный дизайн
 
@@ -122,6 +136,7 @@ CSS
 Инструменты
 
 * [Fantastic WYSIWYG editor on jQuery](http://imperavi.com/redactor/) ![us]
+* [Flowplayer](http://flowplayer.org/) ![us]
 
 Геймдев
 
@@ -136,6 +151,7 @@ CSS
 * [Константин Константинопольский](http://tema.livejournal.com/1322108.html)
 * [Построение приложений командной строки (CLI)](http://habrahabr.ru/post/150950/)
 * [White Space](http://oykun.com/journal/white-space/) ![us]
+* [A Good User Interface](http://goodui.org/) ![us]
 
 Примеры отличных дизайнерских решений
 
@@ -158,6 +174,7 @@ CSS
 * [Font Awesome](http://fortawesome.github.com/Font-Awesome/) ![us]
 * [Gemicon - Handcrafted icon by Turqois](http://gemicon.net/) ![us]
 * [We love icons](http://weloveicons.com/) ![us]
+* [IICNS](http://iicns.com/) ![us]
 
 Типографика
 
